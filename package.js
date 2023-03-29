@@ -1,0 +1,1 @@
+react-bootstrap bootstrap node-sass@4.14.1 react-icons
